@@ -1,0 +1,31 @@
+p{
+	
+	color:red;
+	
+
+}
+
+div{
+	
+	background-color: green;
+	font-size: 40px;
+	font-family: arial;
+}
+.my{
+	background-color: gray;
+	font-stretch:
+	font-family: "serif" Arial;
+	font-size:50px;
+	font-style:italic;
+	font-weight:bold;
+}
+.name i{
+	font-size: 100;
+	
+}
+
+.is i{
+	
+	background-color: red;
+	color:red;
+}
